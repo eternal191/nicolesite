@@ -6,6 +6,7 @@
 
 //dynamic navigation injection
 $(".ashade-nav-block").load("./includes/navigation.html");
+$(".ashade-socials").load("./includes/socials.html");
 var ashade = {
 		flocker: {
 			field_changed:	 false,
