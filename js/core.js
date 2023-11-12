@@ -4,6 +4,8 @@
  */
 "use strict";
 
+//dynamic navigation injection
+$(".ashade-nav-block").load("./includes/navigation.html");
 var ashade = {
 		flocker: {
 			field_changed:	 false,
